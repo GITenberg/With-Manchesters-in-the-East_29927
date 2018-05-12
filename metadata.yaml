@@ -1,0 +1,31 @@
+_repo: With-Manchesters-in-the-East_29927
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hurst, Gerald B. (Gerald Berkeley), Sir
+    alias: Hurst, Gerald Berkeley, Sir
+    birthdate: 1877
+    deathdate: 1957
+    gutenberg_agent_id: '34253'
+    url: http://www.gutenberg.org/2009/agents/34253
+description: ''
+gutenberg_issued: '2009-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29927'
+  lccn: '18010684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, English'
+- !lcsh 'World War, 1914-1918 -- Regimental histories'
+- !lcc 'D501'
+- !lcsh 'Great Britain. Army. Manchester Regiment. Battalion, 7th (Territorial)'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Turkey and the Near East'
+title: With Manchesters in the East
+url: http://www.gutenberg.org/ebooks/29927
